@@ -1470,18 +1470,19 @@ exports.rules = (prefix) => {
 1. Jangan spam bot. 🙅
 2. Jangan telepon bot. ☎️
 3. Jangan membandingkan bot 👍
+4. Jangan ngehalu
 
 🗯️ Bot tidak atau lambat merespon ?
-➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
+➡️ Mungkin dipengaruhi oleh jaringan, signal, terbenet oleh markzuck dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
 ➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
 
 🗯️ Boleh saya menambah ke grup?
-➡️ Untuk itu tergantung dari owner bot sendiri
+➡️ Langsung kontak wa owner ea, free kok.
 
 🗯️ Prefixnya apa ya?
-➡️ Bot ini menggunakan multi prefix & bisa kamu gunakan tanpa prefix
+➡️ Bot ini menggunakan multi prefix & bisa tanpa prefix
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}menu* untuk memulai!
 
@@ -1506,8 +1507,8 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Base : -
+Recode : -
 `
 }
 exports.tos = (ownernomer) => {
@@ -2120,12 +2121,12 @@ exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 ├ My God
 ├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
+├ - A.
+├ -
+├ -
+├ -
+├ -
+├ -
 ├ ZeeoneOfc
 ├ Penyedia Module
 ╰❒ And All Support
