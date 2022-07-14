@@ -1449,14 +1449,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}sound70
 
 ╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
+├ Saya sendiri
 ├ ZeeoneOfc
 ├ Penyedia Module
 ╰❒ And All Support
@@ -2116,14 +2109,6 @@ return`╭─❒ 「 Random Cewe 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ - A.
-├ -
-├ -
-├ -
-├ -
-├ -
 ├ ZeeoneOfc
 ├ Penyedia Module
 ╰❒ And All Support
