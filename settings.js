@@ -13,7 +13,7 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read pesan / message
+global.autoread = true // auto read pesan / message
 global.autobio = true 
 
 //language
@@ -25,7 +25,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Dajal bot" //namabot kalian
 global.ownername= "ᴹᴿBakso" //nama kalian
-global.myweb ="www.google.com" //bebas asal jan hapus
+global.myweb ="https://chat.whatsapp.com/K2Mbg7n4Wmj6H9pubpT24V" //bebas asal jan hapus
 global.youtube = "https://www.youtube.com/channel/UCXym7dl8kBOzeKEIJ3t858g" //bebas asal jan hapus
 global.github = "https://github.com/Axvento/" //bebas
 global.email = "dotnime@gmail.com" //bebas
@@ -52,14 +52,14 @@ global.sp = '⭔'
 global.mess = {
     sukses: '🤗Done, Oke Desu~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
+    botAdmin: 'Setting dulu bos ke admin botnya',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
     group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
     wait: '⏳ Sedang Di Proses',
-	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
+	lockCmd: 'Fitur Tidak Diaktifkan Oleh Mr Bakso!',
 	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
