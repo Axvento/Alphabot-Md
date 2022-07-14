@@ -1451,16 +1451,8 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}sound70
 
 ╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
+├ Bakso for hosting
 ├ ZeeoneOfc
-├ Penyedia Module
 ╰❒ And All Support
     `
 }
@@ -1476,9 +1468,6 @@ exports.rules = (prefix) => {
 🗯️ Bot not or slow to respond ?
 ➡️ May be affected by network, signal, banned by Whatsapp and some reason.
 
-🗯️ Where can I get the script from this bot ?
-➡️ You can get this script on YouTube ZEEONE OFC
-
 🗯️ Can I add to the group?
 ➡️ For that it depends on the bot owner himself
 
@@ -1493,7 +1482,7 @@ Thank you!
 `
 }
 exports.welcome = () =>{
-	return`Don't forget the introduction sis 🤗
+	return`Don't forget the introduction 🤗
 	
 ╭ Name :
 ├ Age :
@@ -1502,14 +1491,14 @@ exports.welcome = () =>{
 ╰❒  Please obey the group rules, sis ~`
 }
 exports.leave = () =>{
-	return`Well why out 😣 Mentally safe, right? >.<
+	return`Well why out 😣? >.<
 Goodbye`
 }
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Base : -
+Recode : -
 `
 }
 exports.tos = (ownernomer) => {
@@ -2120,16 +2109,8 @@ return`╭─❒ 「 Random Cewe 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
+├ Bakso
 ├ ZeeoneOfc
-├ Penyedia Module
 ╰❒ And All Support
 `
 }
